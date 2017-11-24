@@ -1,0 +1,12 @@
+.mainFxmlClass{
+    
+}
+
+.setup-button{
+    -fx-background-color: #1976D2;
+    -fx-text-fill: white;
+}
+
+.setup-button:hover{
+    -fx-background-color: #388E3C;
+}
